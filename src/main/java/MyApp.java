@@ -1,8 +1,5 @@
-import domains.Article;
 import service.ReaderService;
 import service.WriterService;
-
-import java.util.ArrayList;
 import java.util.Date;
 
 public class MyApp {
